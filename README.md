@@ -10,4 +10,4 @@ pkg install proot -y
 pkg install fish -y
 
 # si presenta un error al ejecutar su 
-chmod 777 $PREFIL/bin/su
+chmod 777  $PREFIX/bin/su
